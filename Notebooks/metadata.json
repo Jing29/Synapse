@@ -1,0 +1,12 @@
+{
+    "data": [
+        {
+            "title": "Charting in Synapse Notebook",
+            "path": "PySpark\\06 Charting in Synapse Notebook.ipynb",
+            "description": "This notebook describes how to create an unmanaged (also known as external) table from Spark.",
+            "tags": ["Matplotlib", "Bokeh", "Seaborn", "Visualization", "Charting"],
+            "types": ["pyspark", "sample"],
+            "languages": ["PySpark"]
+        }
+    ]
+}
